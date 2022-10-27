@@ -1,0 +1,8 @@
+E:\CURSO C#\PROGRAMAS\SalarioFuncionario\SalarioFuncionario\bin\Debug\SalarioFuncionario.exe.config
+E:\CURSO C#\PROGRAMAS\SalarioFuncionario\SalarioFuncionario\bin\Debug\SalarioFuncionario.exe
+E:\CURSO C#\PROGRAMAS\SalarioFuncionario\SalarioFuncionario\bin\Debug\SalarioFuncionario.pdb
+E:\CURSO C#\PROGRAMAS\SalarioFuncionario\SalarioFuncionario\obj\Debug\SalarioFuncionario.csproj.AssemblyReference.cache
+E:\CURSO C#\PROGRAMAS\SalarioFuncionario\SalarioFuncionario\obj\Debug\SalarioFuncionario.csproj.SuggestedBindingRedirects.cache
+E:\CURSO C#\PROGRAMAS\SalarioFuncionario\SalarioFuncionario\obj\Debug\SalarioFuncionario.csproj.CoreCompileInputs.cache
+E:\CURSO C#\PROGRAMAS\SalarioFuncionario\SalarioFuncionario\obj\Debug\SalarioFuncionario.exe
+E:\CURSO C#\PROGRAMAS\SalarioFuncionario\SalarioFuncionario\obj\Debug\SalarioFuncionario.pdb
