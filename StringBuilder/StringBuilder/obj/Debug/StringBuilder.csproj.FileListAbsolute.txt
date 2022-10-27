@@ -1,0 +1,8 @@
+E:\CURSO C#\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
+E:\CURSO C#\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe
+E:\CURSO C#\StringBuilder\StringBuilder\bin\Debug\StringBuilder.pdb
+E:\CURSO C#\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.AssemblyReference.cache
+E:\CURSO C#\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.SuggestedBindingRedirects.cache
+E:\CURSO C#\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+E:\CURSO C#\StringBuilder\StringBuilder\obj\Debug\StringBuilder.exe
+E:\CURSO C#\StringBuilder\StringBuilder\obj\Debug\StringBuilder.pdb
