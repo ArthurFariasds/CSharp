@@ -1,0 +1,16 @@
+E:\CURSO C#\Compras_Cliente\Compras_Cliente\bin\Debug\Compras_Cliente.exe.config
+E:\CURSO C#\Compras_Cliente\Compras_Cliente\bin\Debug\Compras_Cliente.exe
+E:\CURSO C#\Compras_Cliente\Compras_Cliente\bin\Debug\Compras_Cliente.pdb
+E:\CURSO C#\Compras_Cliente\Compras_Cliente\obj\Debug\Compras_Cliente.csproj.AssemblyReference.cache
+E:\CURSO C#\Compras_Cliente\Compras_Cliente\obj\Debug\Compras_Cliente.csproj.SuggestedBindingRedirects.cache
+E:\CURSO C#\Compras_Cliente\Compras_Cliente\obj\Debug\Compras_Cliente.csproj.CoreCompileInputs.cache
+E:\CURSO C#\Compras_Cliente\Compras_Cliente\obj\Debug\Compras_Cliente.exe
+E:\CURSO C#\Compras_Cliente\Compras_Cliente\obj\Debug\Compras_Cliente.pdb
+E:\CURSO C#\PROGRAMAS\Compras_Cliente\Compras_Cliente\bin\Debug\Compras_Cliente.exe.config
+E:\CURSO C#\PROGRAMAS\Compras_Cliente\Compras_Cliente\bin\Debug\Compras_Cliente.exe
+E:\CURSO C#\PROGRAMAS\Compras_Cliente\Compras_Cliente\bin\Debug\Compras_Cliente.pdb
+E:\CURSO C#\PROGRAMAS\Compras_Cliente\Compras_Cliente\obj\Debug\Compras_Cliente.csproj.AssemblyReference.cache
+E:\CURSO C#\PROGRAMAS\Compras_Cliente\Compras_Cliente\obj\Debug\Compras_Cliente.csproj.SuggestedBindingRedirects.cache
+E:\CURSO C#\PROGRAMAS\Compras_Cliente\Compras_Cliente\obj\Debug\Compras_Cliente.csproj.CoreCompileInputs.cache
+E:\CURSO C#\PROGRAMAS\Compras_Cliente\Compras_Cliente\obj\Debug\Compras_Cliente.exe
+E:\CURSO C#\PROGRAMAS\Compras_Cliente\Compras_Cliente\obj\Debug\Compras_Cliente.pdb
